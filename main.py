@@ -34,7 +34,6 @@ cap = cv2.VideoCapture(0)  # Open web cam
 frame_rate = cap.get(120)  # frame rate
 
 # Streamlit App
-# st.title("Webcam Image Capture and Translation App", unsafe_allow_html=True)
 
 # Centered selectbox for language selection
 col1, col2, col3 = st.columns([1, 4, 1])
