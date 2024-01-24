@@ -16,3 +16,13 @@ pip install yandex.translate or pip install yandex-translater
 pip install googletrans or pip install google-translate
 
 Create a folder Named "images"
+
+
+https://github.com/Rupesh1011/Real-time-image-text-translator/assets/93862233/3f1dd5da-cbae-4260-a6e5-9ebcb2f93858
+
+
+
+
+https://github.com/Rupesh1011/Real-time-image-text-translator/assets/93862233/4f2b57c0-99f9-4531-859a-f52d22d2b16b
+
+
